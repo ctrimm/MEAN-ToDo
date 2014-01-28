@@ -1,0 +1,11 @@
+{
+"name"         : "node-todo",
+"version"      : "0.0.0",
+"description"  : "Simple todo application - brought to you by Scotch.io.",
+"main"         : "server.js",
+"author"       : "Cory Trimm",
+"dependencies" : {
+  "express"    : "~3.4.4",
+  "mongoose"   : "~3.6.2"
+  }
+}
